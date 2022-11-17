@@ -1,4 +1,4 @@
-'''
+&&&
 import struct
 import socket
 import network
@@ -152,4 +152,4 @@ if sta_if.isconnected():
     bot.listen()
 else:
     print('NOT CONNECTED - aborting')
-'''
+&&&
