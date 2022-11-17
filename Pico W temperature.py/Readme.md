@@ -1,4 +1,4 @@
-###
+```
 import struct
 import socket
 import network
@@ -10,13 +10,13 @@ import urequests
 import utime
 from machine import ADC
 wifi_config = {
-    'ssid':'FAEJPLAY_2.4Gnormal',
-    'password':'704FB8296A13'
+    'ssid':'NOMBRE WIFI',
+    'password':'CLAVE WIFI'
 }
 
 
 utelegram_config = {
-    'token': '5428261735:AAGNX7oqKMSAA5Z_t3MgfaCZw7sFdxeLFG0'
+    'token': 'TOKEN DE TU BOT'
 }
 
 
@@ -153,4 +153,4 @@ if sta_if.isconnected():
 else:
     print('NOT CONNECTED - aborting')
 
-###
+```
