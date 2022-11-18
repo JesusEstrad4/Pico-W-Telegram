@@ -3,7 +3,6 @@
 #Este codigo esta basado en el codigo de Max Antony
 #Luis Jesus Estrada Jimenez
 #Desarrollado con Micropyton
-
 import struct
 import socket
 import network
@@ -21,7 +20,7 @@ wifi_config = {
 
 
 utelegram_config = {
-    'token': 'TOKEN DE TU BOT'
+    'token': 'TOKEN DEl BOT'
 }
 
 
